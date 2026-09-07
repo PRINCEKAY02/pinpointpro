@@ -109,3 +109,8 @@
 - **Date:** 2026-09-06
 - **One thing I learned:** I learned how to use the open-source contribution workflow to make changes to a repository and submit them for review through Git and GitHub.
 
+## Kosisochukwu Ugochukwu
+- **GitHub:** @kosinachi
+- **Contribution:** Cloud & DevOps Foundation – Phase 2 Project
+- **Date:** 2026-09-07
+- **One thing I learned:** I'm familiar now on how Git branching works, as well as the standard process for contributing to another person's GitHub repository or in an open source project. 
