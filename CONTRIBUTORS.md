@@ -114,3 +114,10 @@
 - **Contribution:** Cloud & DevOps Foundation – Phase 2 Project
 - **Date:** 2026-09-07
 - **One thing I learned:** I'm familiar now on how Git branching works, as well as the standard process for contributing to another person's GitHub repository or in an open source project. 
+
+## Ifeoma Nwafor
+# - **GitHub:** @Usonwa77
+# - **Contribution:** Cloud & DevOps Foundation – Phase 2 Project
+# - **Date:** 2026-09-07
+# - **One thing I learned:** Contributing to this repository is one of the fastest ways for me to grow as a developer,it has shifted my mindset from working in isolation to building software as a team.
+
