@@ -121,3 +121,9 @@
 # - **Date:** 2026-09-07
 # - **One thing I learned:** I now understand why forking a Github repository is important when contributing to an open source project. If I dont have permission to push directly to the original repository, I can fork it to my Github account, make my changes there and then submit a Pull Request to the original repository.
 #
+## Ifeoma Nwafor
+# - **GitHub:** @Usonwa77
+# - **Contribution:** Cloud & DevOps Foundation – Phase 2 Project
+# - **Date:** 2026-09-07
+# - **One thing I learned:** Contributing to this repository is one of the fastest ways for me to grow as a developer,it has shifted my mindset from working in isolation to building software as a team.
+
